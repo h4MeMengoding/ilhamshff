@@ -21,6 +21,4 @@ Mainly use `JavaScript and HTML` to build websites.
 <a href="/https://ilhamshf.space/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://ilhamshf.space/rss.xml" height="30" width="40" /></a>
 </p>
 
-### Support me on:
-
----soon---
+###Thaks for visiting and don't forget to star hehe

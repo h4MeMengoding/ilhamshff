@@ -18,7 +18,7 @@ Mainly use `JavaScript and HTML` to build websites.
 <a href="https://twitter.com/ilham_shff" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="maz_ipan" height="30" width="40" /></a>
 <a href="https://fb.com/ilhamshf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mazipanneh" height="30" width="40" /></a>
 <a href="https://instagram.com/ilham.shff" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="maz_ipan" height="30" width="40" /></a>
-<a href="/https://ilhamshf.space/rss.xml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://ilhamshf.space/rss.xml" height="30" width="40" /></a>
+<a href="/https://ilhamshf.space/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://ilhamshf.space/rss.xml" height="30" width="40" /></a>
 </p>
 
 ### Support me on:

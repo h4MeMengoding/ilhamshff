@@ -1,11 +1,11 @@
-# 👋 Hi, I'm Irfan Maulana
+# 👋 Hi, I'm Ilham Shofa
 
-You may know me as `mazipan`. Web developer from 🇮🇩.
+You may know me as `Ilham`. Beginner Web developer from 🇮🇩.
 
-Mainly use `JavaScript` to build websites.
+Mainly use `JavaScript and HTML` to build websites.
 
 
-<p><img src="https://github-readme-stats.vercel.app/api?username=mazipan&show_icons=true&theme=nightowl&locale=en" alt="mazipan" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=ilhamshff&show_icons=true&theme=nightowl&locale=en" alt="hame" /></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mazipan&show_icons=true&locale=en&layout=compact&theme=nightowl" alt="mazipan" /></p>
 

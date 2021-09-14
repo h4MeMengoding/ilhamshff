@@ -7,11 +7,11 @@ Mainly use `JavaScript and HTML` to build websites.
 
 <p><img src="https://github-readme-stats.vercel.app/api?username=ilhamshff&show_icons=true&theme=nightowl&locale=en" alt="hame" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mazipan&show_icons=true&locale=en&layout=compact&theme=nightowl" alt="mazipan" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ilhamshff&show_icons=true&locale=en&layout=compact&theme=nightowl" alt="hame" /></p>
 
-<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mazipan&row=2&column=4&margin-w=15&margin-h=15&theme=dracula&no-bg=true&no-frame=true" alt="mazipan" /></a></p>
+<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ilhamshff&row=2&column=4&margin-w=15&margin-h=15&theme=dracula&no-bg=true&no-frame=true" alt="hame" /></a></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mazipan&" alt="mazipan" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ilhamshff&" alt="hame" /></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

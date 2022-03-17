@@ -1,8 +1,10 @@
 # 👋 Hi, I'm Ilham Shofa
 
-You may know me as `Ilham`. Beginner Web developer from 🇮🇩.
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ilhamshff&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-Mainly use `JavaScript and HTML` to build websites.
+
+[![Discord Presence align="right" ](https://lanyard-profile-readme.vercel.app/api/950588960554487889
+                            )](https://discord.com/users/950588960554487889)
 
 
 <p><img src="https://github-readme-stats.vercel.app/api?username=ilhamshff&show_icons=true&theme=nightowl&locale=en" alt="hame" /></p>
